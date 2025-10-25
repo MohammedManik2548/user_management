@@ -7,7 +7,6 @@ Welcome to the User Management Flutter Application! This README file provides an
 
 This app offers a simple and intuitive way to load and display a scrollable list of users from the API and show a larger profile picture, full name, and email address
 
-Download Now: [Todos-Android-Application.APK](https://drive.google.com/file/d/1D5aWF56QnCgRWV_X3GR2X5wrAbYxMgch/view?usp=sharing)
 
 ## Features
 
@@ -42,7 +41,7 @@ To get started with the Todos Flutter Application, follow these steps:
 
 Here are some screenshots of the User Management Flutter Application:               
 
-|                                                     Add Todos Screen                   
+|                                                     User Management Screen                   
 | <img src="https://github.com/MohammedManik2548/user_management/blob/main/screenshots/user_list_screen.png" width="250">
 | <img src="https://github.com/MohammedManik2548/user_management/blob/main/screenshots/details_screen.png" width="250">
 

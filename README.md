@@ -37,13 +37,6 @@ To get started with the Todos Flutter Application, follow these steps:
    flutter run
    ```
 
-## Usage
-
-Once the application is running, you can explore the following functionalities:
-
-- **Browse Task**: Explore the todos catalog.
-- **Task**: Manage your task details.
-
 
 ## Screenshots
 

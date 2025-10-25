@@ -1,20 +1,20 @@
 # User Management
 
 
-Welcome to the Todos Flutter Application! This README file provides an overview of the app, its features, setup instructions, and other relevant details.
+Welcome to the User Management Flutter Application! This README file provides an overview of the app, its features, setup instructions, and other relevant details.
 
 ## Introduction
 
-This app offers a simple and intuitive way to create, manage, and prioritize tasks, ensuring that you stay productive and focused on what matters most. With features like task categorization, due date reminders, and progress tracking, the To-Do app is your perfect companion for boosting productivity and reducing stress.
-## Download Application
+This app offers a simple and intuitive way to load and display a scrollable list of users from the API and show a larger profile picture, full name, and email address
 
 Download Now: [Todos-Android-Application.APK](https://drive.google.com/file/d/1D5aWF56QnCgRWV_X3GR2X5wrAbYxMgch/view?usp=sharing)
 
 ## Features
 
-- **Todos Listing**: Browse through a variety of Task.
-- **Task Management**: Create and Delete Task.
-- **gyro and accelerometer**: 2 graphs that are continuously showing real-time data of the gyro and accelerometer sensors.
+- **Fetch & Display Users**: Loads and displays a scrollable list of users from the API.
+- **User Card**: Each item in the list clearly shows the user's profile picture, full name, and email address.
+- **Search by Name**: A search bar at the top allows for real-time filtering of the user list based on the user's name.
+- **Detailed View**: Displays a dedicated screen for a selected user, showing a larger profile picture, full name, and email address.
 
 ## Installation
 

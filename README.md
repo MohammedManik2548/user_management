@@ -22,11 +22,11 @@ To get started with the Todos Flutter Application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MohammedManik2548/todo_list_with_sensor.git
+   git clone https://github.com/MohammedManik2548/user_management.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd todo_list_with_sensor
+   cd user_management
    ```
 3. **Install dependencies**:
    ```bash
@@ -47,16 +47,12 @@ Once the application is running, you can explore the following functionalities:
 
 ## Screenshots
 
-Here are some screenshots of the Todos_task Flutter Application:
+Here are some screenshots of the Todos_task Flutter Application:               
 
-|                                                        Initial Page                                                        |                                                        List Page                                                        |                                                     Add Todos Screen                                                    |
+|                                                     Add Todos Screen                                                    |
 |:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/inital_page.png" width="250"> | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/list_page.png" width="250"> | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/add_title.png" width="250"> |
-|                                                        Add Details                                                         |                                                         Add Task                                                        |                                                         Add Task                                                        |
-| <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/add_details.png" width="250"> | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/add_task.png" width="250"> | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/add_page.png" width="250"> |
-|  <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/calender.png" width="250">   |<img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/delete_page.png" width="250">|  <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/acceler_page.png" width="250">|
-|                                                        Notification                                                        |
-|  <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/notification.jpeg" width="250">  |
+
 
 ## Credits
 - Code using Flutter with ❤️ by [Md. Abdul Kuddus](https://github.com/MohammedManik2548)

@@ -50,7 +50,6 @@ Once the application is running, you can explore the following functionalities:
 Here are some screenshots of the Todos_task Flutter Application:               
 
 |                                                     Add Todos Screen                                                    |
-|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/inital_page.png" width="250"> | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/list_page.png" width="250"> | <img src="https://github.com/MohammedManik2548/todo_list_with_sensor/blob/master/screenshots/add_title.png" width="250"> |
 
 

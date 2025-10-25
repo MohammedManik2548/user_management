@@ -59,4 +59,4 @@ For any questions or suggestions, please feel free to contact me at:
 
 ---
 
-Thank you for using the Todos Flutter Application!
+Thank you for using the User Management Flutter Application!
